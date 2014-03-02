@@ -40,8 +40,8 @@ em{ font-style:normal;}
 .at1{ width:209px; height:30px; float:right; background:url(bg1.png) no-repeat; line-height:30px; color:#fff; text-indent:50px; margin:18px 0 0 0}
 .nav{ background:url(bg2.jpg) repeat-x; height:40px; line-height:40px;}
 .nav ul{ width:1000px; margin:0 auto; background:url(nav_s.jpg) no-repeat right 2px;}
-.nav ul li{ float:left; background:url(nav_s.jpg) no-repeat left 2px; width:246px; text-align:center; font-size:14px;}
-.nav ul li a{ color:#fff;width:246px; display:block; height:40px;}
+.nav ul li{ float:left; background:url(nav_s.jpg) no-repeat left 2px; width:196px; text-align:center; font-size:14px;}
+.nav ul li a{ color:#fff;width:196px; display:block; height:40px;}
 .nav ul li a:hover{ background:url(nav_h.jpg) no-repeat center 1px;}
 .content{background:#939393 url(bg5.jpg) repeat-x;}
 .main{ width:1000px; margin:0 auto; background:#f0f0f0; padding-bottom:20px;}
@@ -252,3 +252,14 @@ em{ font-style:normal;}
 .fangshi a{ color:#380c00}
 .jli{ margin:10px 0 10px 80px;}
 .select2{ width:218px; height:26px; line-height:26px;}
+
+.pic4 li{
+	width:187px;
+	text-align: center;
+	margin-bottom: 20px;
+	font-size: 14px;
+	display: inline-block;
+}
+.pic4 img{
+	width:187px;
+}
